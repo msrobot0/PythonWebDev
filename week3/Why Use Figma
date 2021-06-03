@@ -1,0 +1,24 @@
+<html>
+
+<div id="my_title">
+Hello
+</div>
+
+</html>
+
+
+
+
+
+////
+style.css
+
+.my_title { 
+  font-family: Chronicle Display;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 77px;
+
+  color: #FFFFFF;
+}
